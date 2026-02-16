@@ -31,6 +31,7 @@
 | “Major” Skatepark - Bay City | Bay City | Michigan | USA | Indoor |  |
 | Meijer Skatepark (Closed) | Brighton | Michigan | USA | Outdoor (Closed) | 4141 Bauer Rd, Brighton, MI 48116 |
 | Milford Skatepark | Milford | Michigan | USA | Outdoor | 1090 General Motors Rd, Milford, MI 48381 |
+| Monticello Skatepark | Monticello | Indiana | USA | Outdoor | City Park, Monticello, IN 47960 |
 | [Modern Skate & Surf](https://www.modernskate.com/) | Royal Oak | Michigan | USA | Indoor | 1500 N Stephenson Hwy, Royal Oak, MI 48067 |
 | Rainie Park Skatepark | Lansing | Michigan | USA | Outdoor | 620 E Kalamazoo St, Lansing, MI 48912 |
 | [Ride It Sculpture Park](https://skatedex.com/ride-it-sculpture-skatepark/) | Detroit | Michigan | USA | Outdoor | 2317 E Davison St, Detroit, MI 48212 |
@@ -59,12 +60,13 @@
 | Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
 | It Takes a Village Skatepark | Detroit | Michigan | USA | Outdoor | 2800 14th St, Detroit, MI 48216 |
 | “Major” Skatepark - Saginaw | Saginaw | Michigan | USA | Indoor |  |
+| Mini on the Mountin | | | USA | Outdoor | |
 | Sterling Heights Skatepark | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
-| Toledo DIY | Toledo | Ohio | USA | Outdoor (DIY) | *Local DIY spot – Toledo, OH* |
 | Sandusky Skatepark | Sandusky | Ohio | USA | Outdoor | Veterans Park, 530 Milan Rd, Sandusky, OH 44870 |
-| Wig 2 Skatepark | Detroit | Michigan | USA | Outdoor | *Community DIY – Detroit, MI* |
+| Toledo DIY | Toledo | Ohio | USA | Outdoor (DIY) |  |
+| Wig 2 Skatepark | Detroit | Michigan | USA | Outdoor |  |
 | Ypsilanti Skatepark | Ypsilanti | Michigan | USA | Outdoor | Frog Island Park, 555 River St, Ypsilanti, MI 48198 |
-| Ypsilanti DIY | Ypsilanti | Michigan | USA | Outdoor (DIY) | *Community DIY spot – Ypsilanti, MI* |
+| Ypsilanti DIY | Ypsilanti | Michigan | USA | Outdoor (DIY) |  |
 
 ## Skatepark Builders
 [Evergreen Skateparks](https://www.evergreenskateparks.com/skatepark-list)
