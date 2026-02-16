@@ -5,7 +5,7 @@
 | [Ferndale Skatepark](https://www.strayrocket.com/ferndale-skatepark/) | Ferndale | Michigan | USA | Outdoor | 2024 Pinecrest Dr, Ferndale, MI 48220 |
 | [Frankfort Skatepark](https://www.northwestskater.com/FrankfortMIMarket.html) | Frankfort | Michigan | USA | Outdoor | 7th St & Sky Pl, Frankfort, MI 49635 |
 | [Ride It Sculpture Park](https://skatedex.com/ride-it-sculpture-skatepark/) | Detroit | Michigan | USA | Outdoor | 2317 E Davison St, Detroit, MI 48212 |
-| Warren Skatepark | Warren | Michigan | USA | Outdoor | 11450 E 13 Mile Rd, Warren, MI 48093 |
+| Eckstein Skatepark | Warren | Michigan | USA | Outdoor | 11450 E 13 Mile Rd, Warren, MI 48093 |
 
 ## Skateparks to Hit
 
