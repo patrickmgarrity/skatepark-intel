@@ -62,6 +62,7 @@
 | Lagoon Bowl | | Ohio | USA Indoor |
 | “Major” Skatepark - Saginaw | Saginaw | Michigan | USA | Indoor |  |
 | Mini on the Mountin | Chattanooga | Tennessee | USA | Outdoor | |
+| Port Huron Skatepark | Port Huron | Michigan | USA | Outdoor | 1500 Black River St, Port Huron, MI 48060 |
 | Sterling Heights Skatepark | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
 | Sandusky Skatepark | Sandusky | Ohio | USA | Outdoor | Veterans Park, 530 Milan Rd, Sandusky, OH 44870 |
 | The Turf | | Wisconsin | USA | Outdor | |
