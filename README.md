@@ -54,7 +54,7 @@
 |---|---|---|---|---|---|
 | Belding Skatepark | Belding | Michigan | USA | Outdoor | Riverside Park, 314 Gibson St, Belding, MI 48809 |
 | Chandler Park Skatepark | Detroit | Michigan | USA | Outdoor | Chandler Park, 12400 Chandler Park Dr, Detroit, MI 48205 |
-| Chenga World | — | — | — | Indoor | 10330 W 8 Mile Rd, Detroit, MI 48221 |
+| Chenga World |  | Ohio | USA | Indoor | |
 | Clawson Skatepark | Clawson | Michigan | USA | Outdoor | Clawson City Park, 935 N Custer Ave, Clawson, MI 48017 |
 | Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
 | It Takes a Village Skatepark | Detroit | Michigan | USA | Outdoor | 2800 14th St, Detroit, MI 48216 |
