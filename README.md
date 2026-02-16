@@ -60,9 +60,10 @@
 | Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
 | It Takes a Village Skatepark | Detroit | Michigan | USA | Outdoor | 2800 14th St, Detroit, MI 48216 |
 | “Major” Skatepark - Saginaw | Saginaw | Michigan | USA | Indoor |  |
-| Mini on the Mountin | | | USA | Outdoor | |
+| Mini on the Mountin | Chattanooga | Tennessee | USA | Outdoor | |
 | Sterling Heights Skatepark | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
 | Sandusky Skatepark | Sandusky | Ohio | USA | Outdoor | Veterans Park, 530 Milan Rd, Sandusky, OH 44870 |
+| The Turf | | Wisconsin | USA | Outdor | |
 | Toledo DIY | Toledo | Ohio | USA | Outdoor (DIY) |  |
 | Wig 2 Skatepark | Detroit | Michigan | USA | Outdoor |  |
 | Ypsilanti Skatepark | Ypsilanti | Michigan | USA | Outdoor | Frog Island Park, 555 River St, Ypsilanti, MI 48198 |
