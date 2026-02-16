@@ -10,6 +10,7 @@
 | Bay City “Major” Indoor Skatepark | Bay City | Michigan | USA | Indoor |  |
 | Bay City Skatepark | Bay City | Michigan | USA | Outdoor | 2521 E Midland St, Bay City, MI 48706 |
 | Bishop DIY | Detroit | Michigan | USA | Outdoor (DIY) | 6017 Grand River Ave, Detroit, MI 48208 |
+| Breckenridge Skatepark | Breckenridge | Colorado | USA | Outdoor | 109 S Harris St, Breckenridge, CO 80424 |
 | Charlotte Skatepark | Charlotte | Michigan | USA | Outdoor | Bennett Park, 1200 Packard Hwy, Charlotte, MI 48813 |
 | Cincinnati DIY | Cincinnati | Ohio | USA | Outdoor (DIY) | *Various DIY spots – Cincinnati, OH* |
 | Columbine Skatepark | Columbine Valley | Colorado | USA | Outdoor | 2 Middlefield Rd, Columbine Valley, CO 80123 |
@@ -29,12 +30,16 @@
 | Rainie Park Skatepark | Lansing | Michigan | USA | Outdoor | 620 E Kalamazoo St, Lansing, MI 48912 |
 | [Ride It Sculpture Park](https://skatedex.com/ride-it-sculpture-skatepark/) | Detroit | Michigan | USA | Outdoor | 2317 E Davison St, Detroit, MI 48212 |
 | Riverside Skatepark | Detroit | Michigan | USA | Outdoor | 18400 Joy Rd, Detroit, MI 48228 |
+| Silverthorne Skatepark | Silverthorne | Colorado | USA | Outdoor | 701 Blue River Pkwy, Silverthorne, CO 80498 |
 | Slam City Skatepark | Fort Wayne | Indiana | USA | Indoor | 1412 S Anthony Blvd, Fort Wayne, IN 46803 |
 | Sprak Skatepark | Louisville | Kentucky | USA | Outdoor | 1511 Frankfort Ave, Louisville, KY 40206 |
+| The Bowl at Selfridges | London | England | UK | Indoor | Selfridges, 400 Oxford St, London W1A 1AB, UK |
+| The Taz Skatepark | Montreal | Quebec | Canada | Indoor | 4055 Rue Saint-Denis, Montreal, QC H2W 2M5 |
 | Thompsonville Skatepark | Thompsonville | Michigan | USA | Outdoor | 14751 Thompson Ave, Thompsonville, MI 49683 |
 | Traverse City Skatepark | Traverse City | Michigan | USA | Outdoor | 1600 Chartwell Dr, Traverse City, MI 49696 |
 | [Skatepark of Tampa](https://skateparkoftampa.com/) | Tampa | Florida | USA | Indoor | 4215 E Columbus Dr, Tampa, FL 33605 |
-| The Bowl at Selfridges | London | England | UK | Indoor | Selfridges, 400 Oxford St, London W1A 1AB, UK |
+| Van Horne Skatepark | Montreal | Quebec | Canada | Outdoor | 6515 Avenue Van Horne, Montreal, QC H3W 1K8 |
+
 
 ## Skateparks to Hit
 
