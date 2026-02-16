@@ -59,6 +59,7 @@
 | Clawson Skatepark | Clawson | Michigan | USA | Outdoor | Clawson City Park, 935 N Custer Ave, Clawson, MI 48017 |
 | Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
 | It Takes a Village Skatepark | Detroit | Michigan | USA | Outdoor | 2800 14th St, Detroit, MI 48216 |
+| Lagoon Bowl | | Ohio | USA Indoor |
 | “Major” Skatepark - Saginaw | Saginaw | Michigan | USA | Indoor |  |
 | Mini on the Mountin | Chattanooga | Tennessee | USA | Outdoor | |
 | Sterling Heights Skatepark | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
