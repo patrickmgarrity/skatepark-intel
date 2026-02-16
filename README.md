@@ -1,19 +1,22 @@
-# Skateparks Skated
-| Skatepark | City | State | Country | Indoor / Outdoor |
-|---|---|---|---|---|
-| Ferndale Skatepark | Ferndale | Michigan | USA | Outdoor |
-| Frankfort Skatepark | Frankfort | Michigan | USA | Outdoor |
-| Ride It Sculpture Park Phase 3 | Detroit | Michigan | USA | Outdoor |
-| Warren Skatepark | Warren | Michigan | USA | Outdoor |
+## Skateparks Skated
 
+| Skatepark | City | State | Country | Indoor / Outdoor | Address |
+|---|---|---|---|---|---|
+| [Ferndale Skatepark](https://www.strayrocket.com/ferndale-skatepark/) | Ferndale | Michigan | USA | Outdoor | 2024 Pinecrest Dr, Ferndale, MI 48220 |
+| [Frankfort Skatepark](https://www.northwestskater.com/FrankfortMIMarket.html) | Frankfort | Michigan | USA | Outdoor | 7th St & Sky Pl, Frankfort, MI 49635 |
+| [Ride It Sculpture Park](https://skatedex.com/ride-it-sculpture-skatepark/) | Detroit | Michigan | USA | Outdoor | 2317 E Davison St, Detroit, MI 48212 |
+| Warren Skatepark | Warren | Michigan | USA | Outdoor | 11450 E 13 Mile Rd, Warren, MI 48093 |
 
-# Skateparks I'd Like to Skate
-| Skatepark | City | State | Country | Indoor / Outdoor |
-|---|---|---|---|---|
-| Belding Skatepark | Belding | Michigan | USA | Outdoor |
-| Clawson Skatepark | Clawson | Michigan | USA | Outdoor |
-| Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor |
-| Sterling Heights Skatepark | Sterling Heights | Michigan | USA | Outdoor |
+## Skateparks to Hit
+
+| Skatepark | City | State | Country | Indoor / Outdoor | Address |
+|---|---|---|---|---|---|
+| Belding Skatepark | Belding | Michigan | USA | Outdoor | Riverside Park, 314 Gibson St, Belding, MI 48809 |
+| Clawson Skatepark | Clawson | Michigan | USA | Outdoor | Clawson City Park, 935 N Custer Ave, Clawson, MI 48017 |
+| Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
+| [Sterling Heights Skatepark](https://www.sterlingheights.gov/1607/Skate-Park) | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
+| Chenga World | — | — | — | Indoor | 10330 W 8 Mile Rd, Detroit, MI 48221 |
+
 
 ## Skatepark Builders
 [Evergreen Skateparks](https://www.evergreenskateparks.com/skatepark-list)
