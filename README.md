@@ -1,4 +1,4 @@
-# Skateparks I've Skated
+# Skateparks Skated
 | Skatepark | City | State | Country | Indoor / Outdoor |
 |---|---|---|---|---|
 | Ferndale Skatepark | Ferndale | Michigan | USA | Outdoor |
