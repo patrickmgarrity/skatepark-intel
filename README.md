@@ -20,6 +20,7 @@
 | Drake Sports Park Skatepark | West Bloomfield | Michigan | USA | Outdoor | 6801 Drake Rd, West Bloomfield, MI 48322 |
 | Eckstein Skatepark | Warren | Michigan | USA | Outdoor | 11450 E 13 Mile Rd, Warren, MI 48093 |
 | Eliza Howell DIY | Detroit | Michigan | USA | Outdoor (DIY) | 5850 Fenkell Ave, Detroit, MI 48238 |
+| Fairfax Skatepark | Fairfax | Virginia | USA | Outdoor | 10399 Armstrong St, Fairfax, VA 22030 |
 | [Ferndale Skatepark](https://www.strayrocket.com/ferndale-skatepark/) | Ferndale | Michigan | USA | Outdoor | 2024 Pinecrest Dr, Ferndale, MI 48220 |
 | [Frankfort Skatepark](https://www.northwestskater.com/FrankfortMIMarket.html) | Frankfort | Michigan | USA | Outdoor | 7th St & Sky Pl, Frankfort, MI 49635 |
 | Farmington Skatepark | Farmington | Michigan | USA | Outdoor | Shiawassee Park, 32300 Shiawassee St, Farmington, MI 48336 |
@@ -40,11 +41,17 @@
 | Skatepark | City | State | Country | Indoor / Outdoor | Address |
 |---|---|---|---|---|---|
 | Belding Skatepark | Belding | Michigan | USA | Outdoor | Riverside Park, 314 Gibson St, Belding, MI 48809 |
+| Chandler Park Skatepark | Detroit | Michigan | USA | Outdoor | Chandler Park, 12400 Chandler Park Dr, Detroit, MI 48205 |
+| Chenga World | — | — | — | Indoor | 10330 W 8 Mile Rd, Detroit, MI 48221 |
 | Clawson Skatepark | Clawson | Michigan | USA | Outdoor | Clawson City Park, 935 N Custer Ave, Clawson, MI 48017 |
 | Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
-| [Sterling Heights Skatepark](https://www.sterlingheights.gov/1607/Skate-Park) | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
-| Chenga World | — | — | — | Indoor | 10330 W 8 Mile Rd, Detroit, MI 48221 |
-
+| It Takes a Village Skatepark | Detroit | Michigan | USA | Outdoor | 2800 14th St, Detroit, MI 48216 |
+| Sterling Heights Skatepark | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
+| Toledo DIY | Toledo | Ohio | USA | Outdoor (DIY) | *Local DIY spot – Toledo, OH* |
+| Sandusky Skatepark | Sandusky | Ohio | USA | Outdoor | Veterans Park, 530 Milan Rd, Sandusky, OH 44870 |
+| Wig 2 Skatepark | Detroit | Michigan | USA | Outdoor | *Community DIY – Detroit, MI* |
+| Ypsilanti Skatepark | Ypsilanti | Michigan | USA | Outdoor | Frog Island Park, 555 River St, Ypsilanti, MI 48198 |
+| Ypsilanti DIY | Ypsilanti | Michigan | USA | Outdoor (DIY) | *Community DIY spot – Ypsilanti, MI* |
 
 ## Skatepark Builders
 [Evergreen Skateparks](https://www.evergreenskateparks.com/skatepark-list)
