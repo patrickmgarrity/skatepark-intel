@@ -27,6 +27,7 @@
 | Flint DIY | Flint | Michigan | USA | Outdoor (DIY) | *Community DIY spot – Flint, MI* |
 | [Frankfort Skatepark](https://www.northwestskater.com/FrankfortMIMarket.html) | Frankfort | Michigan | USA | Outdoor | 7th St & Sky Pl, Frankfort, MI 49635 |
 | Frankenramp | Delton | Michigan | USA | Outdoor (Private) | Delton, MI |
+| Garden City Skatepark | Garden City | Michigan | USA | Outdoor | Garden City Park, 32500 Maplewood St, Garden City, MI 48135 |
 | Highland Skatepark | Highland | Michigan | USA | Outdoor | 205 N John St, Highland, MI 48357 |
 | Howell Skatepark | Howell | Michigan | USA | Outdoor | 1100 Byron Rd, Howell, MI 48843 |
 | Huntington Woods Skatepark | Huntington Woods | Michigan | USA | Outdoor | Burton Community Park, 26325 Scotia Rd, Huntington Woods, MI 48070 |
@@ -78,6 +79,7 @@
 | Wig 2 Skatepark | Detroit | Michigan | USA | Outdoor |  |
 | Ypsilanti Skatepark | Ypsilanti | Michigan | USA | Outdoor | Frog Island Park, 555 River St, Ypsilanti, MI 48198 |
 | Ypsilanti DIY | Ypsilanti | Michigan | USA | Outdoor (DIY) |  |
+| Kona Skatepark | Jacksonville | Florida | USA | Outdoor | 8739 Kona Ave, Jacksonville, FL 32211 |
 
 ## Skatepark Builders
 [Evergreen Skateparks](https://www.evergreenskateparks.com/skatepark-list)
