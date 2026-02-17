@@ -67,6 +67,7 @@
 | Chandler Park Skatepark | Detroit | Michigan | USA | Outdoor | Chandler Park, 12400 Chandler Park Dr, Detroit, MI 48205 |
 | Chenga World |  | Ohio | USA | Indoor | |
 | Clawson Skatepark | Clawson | Michigan | USA | Outdoor | Clawson City Park, 935 N Custer Ave, Clawson, MI 48017 |
+| Clemente DIY Skate Park | Grand Rapids | Michigan | USA | Outdoor (DIY) | Roberto Clemente Park, 801 Godfrey Ave SW, Grand Rapids, MI 49503 |
 | Four Seasons Skatepark | Milwaukee | Wisconsin | USA | Indoor | 2018 S 1st St, Milwaukee, WI 53207 |
 | Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
 | It Takes a Village Skatepark | Detroit | Michigan | USA | Outdoor | 2800 14th St, Detroit, MI 48216 |
@@ -80,6 +81,7 @@
 | Sterling Heights Skatepark | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
 | Sandusky Skatepark | Sandusky | Ohio | USA | Outdoor | Veterans Park, 530 Milan Rd, Sandusky, OH 44870 |
 | SoMa West Skatepark | San Francisco | California | USA | Outdoor | 801 Brannan St, San Francisco, CA 94103 |
+| Steele Avenue DIY Skatepark | Grand Rapids | Michigan | USA | Outdoor (DIY) | 2100 Steele Ave SW, Grand Rapids, MI 49507 |
 | The Turf | | Wisconsin | USA | Outdor | |
 | Toledo DIY | Toledo | Ohio | USA | Outdoor (DIY) |  |
 | UN Plaza Skatepark | San Francisco | California | USA | Outdoor | UN Plaza, 50 Fulton St, San Francisco, CA 94102 |
