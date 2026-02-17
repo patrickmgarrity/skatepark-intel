@@ -69,6 +69,7 @@
 | Clawson Skatepark | Clawson | Michigan | USA | Outdoor | Clawson City Park, 935 N Custer Ave, Clawson, MI 48017 |
 | Clemente DIY Skate Park | Grand Rapids | Michigan | USA | Outdoor (DIY) | Roberto Clemente Park, 801 Godfrey Ave SW, Grand Rapids, MI 49503 |
 | Four Seasons Skatepark | Milwaukee | Wisconsin | USA | Indoor | 2018 S 1st St, Milwaukee, WI 53207 |
+| Grand Haven Skatepark | Grand Haven | Michigan | USA | Outdoor | 4th St & Ferris St, Grand Haven, MI 49417 |
 | Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
 | It Takes a Village Skatepark | Detroit | Michigan | USA | Outdoor | 2800 14th St, Detroit, MI 48216 |
 | Kona Skatepark | Jacksonville | Florida | USA | Outdoor | 8739 Kona Ave, Jacksonville, FL 32211 |
