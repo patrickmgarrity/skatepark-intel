@@ -27,6 +27,7 @@
 | [Frankfort Skatepark](https://www.northwestskater.com/FrankfortMIMarket.html) | Frankfort | Michigan | USA | Outdoor | 7th St & Sky Pl, Frankfort, MI 49635 |
 | Frankenramp | Delton | Michigan | USA | Outdoor (Private) | Delton, MI |
 | Highland Skatepark | Highland | Michigan | USA | Outdoor | 205 N John St, Highland, MI 48357 |
+| Howell Skatepark | Howell | Michigan | USA | Outdoor | 1100 Byron Rd, Howell, MI 48843 |
 | Huntington Woods Skatepark | Huntington Woods | Michigan | USA | Outdoor | Burton Community Park, 26325 Scotia Rd, Huntington Woods, MI 48070 |
 | “Major” Skatepark - Bay City | Bay City | Michigan | USA | Indoor |  |
 | Meijer Skatepark (Closed) | Brighton | Michigan | USA | Outdoor (Closed) | 4141 Bauer Rd, Brighton, MI 48116 |
@@ -43,16 +44,19 @@
 | The Bowl at Selfridges | London | England | UK | Indoor | Selfridges, 400 Oxford St, London W1A 1AB, UK |
 | The Taz Skatepark | Montreal | Quebec | Canada | Indoor | 4055 Rue Saint-Denis, Montreal, QC H2W 2M5 |
 | Thompsonville Skatepark | Thompsonville | Michigan | USA | Outdoor | 14751 Thompson Ave, Thompsonville, MI 49683 |
+| Tosa Skate Park | Wauwatosa | Wisconsin | USA | Outdoor | 7725 W North Ave, Wauwatosa, WI 53213 |
 | Traverse City Skatepark | Traverse City | Michigan | USA | Outdoor | 1600 Chartwell Dr, Traverse City, MI 49696 |
 | [Skatepark of Tampa](https://skateparkoftampa.com/) | Tampa | Florida | USA | Indoor | 4215 E Columbus Dr, Tampa, FL 33605 |
 | Unity Skatepark | Northville | Michigan | USA | Indoor | 777 W 8 Mile Rd, Northville, MI 48167 |
 | Van Horne Skatepark | Montreal | Quebec | Canada | Outdoor | 6515 Avenue Van Horne, Montreal, QC H3W 1K8 |
-
+| Vans Skatepark (Westminster Mall) | Westminster | California | USA | Indoor (Closed) | Former location inside Westminster Mall — closed around 2001 |
+| Zero Gravity Skatepark | Michigan Center | Michigan | USA | Indoor | 2329 W Columbia Rd, Michigan Center, MI 49254 |
 
 ## Skateparks to Hit
 
 | Skatepark | City | State | Country | Indoor / Outdoor | Address |
 |---|---|---|---|---|---|
+| Four Seasons Skatepark | Milwaukee | Wisconsin | USA | Indoor | 2018 S 1st St, Milwaukee, WI 53207 |
 | Belding Skatepark | Belding | Michigan | USA | Outdoor | Riverside Park, 314 Gibson St, Belding, MI 48809 |
 | Chandler Park Skatepark | Detroit | Michigan | USA | Outdoor | Chandler Park, 12400 Chandler Park Dr, Detroit, MI 48205 |
 | Chenga World |  | Ohio | USA | Indoor | |
@@ -62,11 +66,14 @@
 | Lagoon Bowl | | Ohio | USA Indoor |
 | “Major” Skatepark - Saginaw | Saginaw | Michigan | USA | Indoor |  |
 | Mini on the Mountin | Chattanooga | Tennessee | USA | Outdoor | |
+| Mason Skatepark | Mason | Michigan | USA | Outdoor | 201 W Ash St, Mason, MI 48854 |
 | Port Huron Skatepark | Port Huron | Michigan | USA | Outdoor | 1500 Black River St, Port Huron, MI 48060 |
 | Sterling Heights Skatepark | Sterling Heights | Michigan | USA | Outdoor | 40111 Dodge Park Rd, Sterling Heights, MI 48313 |
 | Sandusky Skatepark | Sandusky | Ohio | USA | Outdoor | Veterans Park, 530 Milan Rd, Sandusky, OH 44870 |
+| SoMa West Skatepark | San Francisco | California | USA | Outdoor | 801 Brannan St, San Francisco, CA 94103 |
 | The Turf | | Wisconsin | USA | Outdor | |
 | Toledo DIY | Toledo | Ohio | USA | Outdoor (DIY) |  |
+| UN Plaza Skatepark | San Francisco | California | USA | Outdoor | UN Plaza, 50 Fulton St, San Francisco, CA 94102 |
 | Wig 2 Skatepark | Detroit | Michigan | USA | Outdoor |  |
 | Ypsilanti Skatepark | Ypsilanti | Michigan | USA | Outdoor | Frog Island Park, 555 River St, Ypsilanti, MI 48198 |
 | Ypsilanti DIY | Ypsilanti | Michigan | USA | Outdoor (DIY) |  |
