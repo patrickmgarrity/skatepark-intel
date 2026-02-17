@@ -8,6 +8,7 @@
 | Battlegrounds Skatepark | Battle Creek | Michigan | USA | Outdoor | 75 Champion St, Battle Creek, MI 49037 |
 | Bay 66 Skatepark | London | England | UK | Indoor | BaySixty6 Skate Park, Acklam Rd, London W10 5YU, UK |
 | Bay City Skatepark | Bay City | Michigan | USA | Outdoor | 2521 E Midland St, Bay City, MI 48706 |
+| Big Mine Skating Park | Crested Butte | Colorado | USA | Outdoor | 710 Sopris Ave, Crested Butte, CO 81224 |
 | Bishop DIY | Detroit | Michigan | USA | Outdoor (DIY) | 6017 Grand River Ave, Detroit, MI 48208 |
 | Breckenridge Skatepark | Breckenridge | Colorado | USA | Outdoor | 109 S Harris St, Breckenridge, CO 80424 |
 | Charlotte Skatepark | Charlotte | Michigan | USA | Outdoor | Bennett Park, 1200 Packard Hwy, Charlotte, MI 48813 |
