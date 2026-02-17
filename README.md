@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|
 | 555 Monroe Skatepark | Grand Rapids | Michigan | USA | Outdoor | 555 Monroe Ave NW, Grand Rapids, MI 49503 |
 | Ann Arbor Skatepark | Ann Arbor | Michigan | USA | Outdoor | 2150 Jackson Ave, Ann Arbor, MI 48103 |
-| Battle Creek DIY | Battle Creek | Michigan | USA | Outdoor (DIY) | *Local DIY spot – Battle Creek, MI* |
+| Battle Creek DIY | Battle Creek | Michigan | USA | Outdoor (DIY) | Under a Bridge |
 | Battlegrounds Skatepark | Battle Creek | Michigan | USA | Outdoor | 75 Champion St, Battle Creek, MI 49037 |
 | Bay 66 Skatepark | London | England | UK | Indoor | BaySixty6 Skate Park, Acklam Rd, London W10 5YU, UK |
 | Bay City Skatepark | Bay City | Michigan | USA | Outdoor | 2521 E Midland St, Bay City, MI 48706 |
