@@ -13,6 +13,7 @@
 | Breckenridge Skatepark | Breckenridge | Colorado | USA | Outdoor | 109 S Harris St, Breckenridge, CO 80424 |
 | Charlotte Skatepark | Charlotte | Michigan | USA | Outdoor | Bennett Park, 1200 Packard Hwy, Charlotte, MI 48813 |
 | Cincinnati DIY | Cincinnati | Ohio | USA | Outdoor (DIY) | *Various DIY spots – Cincinnati, OH* |
+| City of Auburn Hills Skatepark | Auburn Hills | Michigan | USA | Outdoor | 1827 N Squirrel Rd, Auburn Hills, MI 48326 |
 | Columbine Skatepark | Columbine Valley | Colorado | USA | Outdoor | 2 Middlefield Rd, Columbine Valley, CO 80123 |
 | Concrete Jungle Skatepark | Westland | Michigan | USA | Outdoor | 33275 Glenwood Rd, Westland, MI 48186 |
 | Craig Ranch Skatepark | North Las Vegas | Nevada | USA | Outdoor | 628 W Craig Rd, North Las Vegas, NV 89032 |
