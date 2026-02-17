@@ -32,6 +32,7 @@
 | Highland Skatepark | Highland | Michigan | USA | Outdoor | 205 N John St, Highland, MI 48357 |
 | Howell Skatepark | Howell | Michigan | USA | Outdoor | 1100 Byron Rd, Howell, MI 48843 |
 | Huntington Woods Skatepark | Huntington Woods | Michigan | USA | Outdoor | Burton Community Park, 26325 Scotia Rd, Huntington Woods, MI 48070 |
+| Livonia Recreation Center Skatepark | Livonia | Michigan | USA | Indoor | 15100 Hubbard St, Livonia, MI 48154 |
 | “Major” Skatepark - Bay City | Bay City | Michigan | USA | Indoor |  |
 | Meijer Skatepark (Closed) | Brighton | Michigan | USA | Outdoor (Closed) | 4141 Bauer Rd, Brighton, MI 48116 |
 | Milford Skatepark | Milford | Michigan | USA | Outdoor | 1090 General Motors Rd, Milford, MI 48381 |
