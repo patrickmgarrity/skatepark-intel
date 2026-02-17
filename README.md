@@ -14,6 +14,7 @@
 | Charlotte Skatepark | Charlotte | Michigan | USA | Outdoor | Bennett Park, 1200 Packard Hwy, Charlotte, MI 48813 |
 | Cincinnati DIY | Cincinnati | Ohio | USA | Outdoor (DIY) | *Various DIY spots – Cincinnati, OH* |
 | Columbine Skatepark | Columbine Valley | Colorado | USA | Outdoor | 2 Middlefield Rd, Columbine Valley, CO 80123 |
+| Concrete Jungle Skatepark | Westland | Michigan | USA | Outdoor | 33275 Glenwood Rd, Westland, MI 48186 |
 | Craig Ranch Skatepark | North Las Vegas | Nevada | USA | Outdoor | 628 W Craig Rd, North Las Vegas, NV 89032 |
 | Dave Armstrong Extreme Park | Louisville | Kentucky | USA | Outdoor | 1007 W Main St, Louisville, KY 40202 |
 | Dayton DIY | Dayton | Ohio | USA | Outdoor (DIY) |  |
@@ -58,13 +59,16 @@
 
 | Skatepark | City | State | Country | Indoor / Outdoor | Address |
 |---|---|---|---|---|---|
-| Four Seasons Skatepark | Milwaukee | Wisconsin | USA | Indoor | 2018 S 1st St, Milwaukee, WI 53207 |
 | Belding Skatepark | Belding | Michigan | USA | Outdoor | Riverside Park, 314 Gibson St, Belding, MI 48809 |
+| Boyer Playground Skatepark | Detroit | Michigan | USA | Outdoor | Boyer Park, 7700 Boyer St, Detroit, MI 48213 |
+| Butzel Park Skatepark | Detroit | Michigan | USA | Outdoor | Butzel Family Park, 7737 Kercheval Ave, Detroit, MI 48214 |
 | Chandler Park Skatepark | Detroit | Michigan | USA | Outdoor | Chandler Park, 12400 Chandler Park Dr, Detroit, MI 48205 |
 | Chenga World |  | Ohio | USA | Indoor | |
 | Clawson Skatepark | Clawson | Michigan | USA | Outdoor | Clawson City Park, 935 N Custer Ave, Clawson, MI 48017 |
+| Four Seasons Skatepark | Milwaukee | Wisconsin | USA | Indoor | 2018 S 1st St, Milwaukee, WI 53207 |
 | Harbor Springs Skatepark | Harbor Springs | Michigan | USA | Outdoor | Zorn Park, Harbor Springs, MI 49740 |
 | It Takes a Village Skatepark | Detroit | Michigan | USA | Outdoor | 2800 14th St, Detroit, MI 48216 |
+| Kona Skatepark | Jacksonville | Florida | USA | Outdoor | 8739 Kona Ave, Jacksonville, FL 32211 |
 | Lagoon Bowl | | Ohio | USA Indoor |
 | “Major” Skatepark - Saginaw | Saginaw | Michigan | USA | Indoor |  |
 | Mini on the Mountin | Chattanooga | Tennessee | USA | Outdoor | |
@@ -79,7 +83,7 @@
 | Wig 2 Skatepark | Detroit | Michigan | USA | Outdoor |  |
 | Ypsilanti Skatepark | Ypsilanti | Michigan | USA | Outdoor | Frog Island Park, 555 River St, Ypsilanti, MI 48198 |
 | Ypsilanti DIY | Ypsilanti | Michigan | USA | Outdoor (DIY) |  |
-| Kona Skatepark | Jacksonville | Florida | USA | Outdoor | 8739 Kona Ave, Jacksonville, FL 32211 |
+
 
 ## Skatepark Builders
 [Evergreen Skateparks](https://www.evergreenskateparks.com/skatepark-list)
